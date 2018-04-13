@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: sccl-model
+Implementation-Version: 0.0.1
+Built-By: Ihechukwudere
+Implementation-Vendor-Id: com.schoolcloudy.backend
+Build-Jdk: 1.8.0_161
+Implementation-URL: http://projects.spring.io/spring-boot/schoolcloudy
+ -backend/sccl-model/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
